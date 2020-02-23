@@ -4,7 +4,5 @@ title: Projects
 ---
 #My Projects
 
-*Journals   
-*Objects    
-*Annotations
-*Ephemera
+*Journals   *Objects    
+*Annotations *Ephemera
